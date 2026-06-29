@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer01" tvg-logo="http://172.110.220.61:80/images/9b11358569465a66032fc98216354601.jpg" group-title="USA Channels",USA Soccer01: Panama vs England ( TSN1 Feed ) @ 5:00 pm
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/2603212.ts
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://185.193.88.130:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA Channels",USA AMC
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175787.ts
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="http://23.227.147.172:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA Channels",USA Bravo East
