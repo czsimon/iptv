@@ -2,3 +2,23 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://185.193.88.130:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA Entertainment",USA AMC
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175787.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="http://23.227.147.172:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA Entertainment",USA Bravo East
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/175805.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD*" tvg-logo="http://23.227.147.172:80/images/6413fa9c943c4c2ad943d61a20b8193c.png" group-title="USA Entertainment",USA HGTV East UHD*
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/175875.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA Entertainment",USA Hallmark Channel
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/175864.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://172.110.220.61:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN UHD*
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/208973.ts
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://172.110.220.61:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA News",USA BBC World News
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/1847083.ts
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://172.110.220.61:80/images/d3f850c6cfd02e7fa412df052ccded6c.png" group-title="PL: Poland General",PL: TVP 1 HD
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/219150.ts
+#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://172.110.220.61:80/images/4949cb9df1df71c14989908ad952cd9c.png" group-title="PL: Poland General",PL: TVP 2 FHD
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/219151.ts
+#EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL: TVP 3" tvg-logo="http://23.227.147.172:80/images/82f599a9f92ab27d23b00a665a2ab05e.png" group-title="PL: Poland General",PL: TVP 3
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/219152.ts
+#EXTINF:-1 tvg-id="TVN7.pl" tvg-name="CL: TVN HD" tvg-logo="http://172.110.220.61:80/images/65a5f7d4c7b321ade4387a2c1ec64fdd.png" group-title="Chile",CL: TVN HD
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/181765.ts
+#EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL: TVN HD" tvg-logo="http://23.227.147.172:80/images/be74fa964c17d74695a2b34c0f78b4fb.png" group-title="PL: Poland General",PL: TVN HD
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/219146.ts
