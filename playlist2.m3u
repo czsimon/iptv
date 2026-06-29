@@ -2,65 +2,65 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
 #EXTINF:-1 tvg-id="" tvg-name="USA Soccer01" tvg-logo="http://172.110.220.61:80/images/9b11358569465a66032fc98216354601.jpg" group-title="USA Channels",USA Soccer01: Panama vs England ( TSN1 Feed ) @ 5:00 pm
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/2603212.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/2603212.ts
 #EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://185.193.88.130:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA Channels",USA AMC
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175787.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175787.ts
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="http://23.227.147.172:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA Channels",USA Bravo East
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175805.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175805.ts
 #EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD*" tvg-logo="http://23.227.147.172:80/images/6413fa9c943c4c2ad943d61a20b8193c.png" group-title="USA Channels",USA HGTV East UHD*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175875.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175875.ts
 #EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA Channels",USA Hallmark Channel
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175864.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175864.ts
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://172.110.220.61:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA Channels",USA CNN UHD*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/208973.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/208973.ts
 #EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://172.110.220.61:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA Channels",USA BBC World News
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/1847083.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/1847083.ts
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA BBC America HD" tvg-logo="http://172.110.220.61:80/images/3c5ea44dac439ca35831736fbd694ca0.png" group-title="USA Channels",USA BBC America HD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/1846782.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/1846782.ts
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA DISCOVERY CHANNEL HD*" tvg-logo="http://185.193.88.130:80/images/ea4c51dc1b659a1888d8c563ebffdd42.png" group-title="USA Channels",USA DISCOVERY CHANNEL HD*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/228296.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/228296.ts
 #EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East" tvg-logo="http://23.227.147.172:80/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="USA Channels",USA Nat Geo East
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175899.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175899.ts
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA E! Entertainment" tvg-logo="http://23.227.147.172:80/images/f04bb26398586ee2bdd3784a153ca860.jpg" group-title="USA Channels",USA E! Entertainment
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175841.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175841.ts
 #EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA Food Network East UHD*" tvg-logo="http://172.110.220.61:80/images/f0fa75f0d2d7c072d7bf2e834a3c6cf3.png" group-title="USA Channels",USA Food Network East UHD*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175850.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175850.ts
 #EXTINF:-1 tvg-id="tlc.us" tvg-name="USA TLC East*" tvg-logo="http://185.193.88.130:80/images/d8ad9a73fd2fe74bcffbf5b5c8a3efe2.png" group-title="USA Channels",USA TLC East*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175946.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175946.ts
 #EXTINF:-1 tvg-id="cnninternational.us" tvg-name="USA CNN INTERNATIONAL*" tvg-logo="http://185.193.88.130:80/images/0ea6add692992b8a5316407be14423f6.png" group-title="USA Channels",USA CNN INTERNATIONAL*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175988.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175988.ts
 #EXTINF:-1 tvg-id="fx.us" tvg-name="USA FX" tvg-logo="http://172.110.220.61:80/images/30318a2847b7702901fdd0cc6259f5ed.png" group-title="USA Channels",USA FX
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/176031.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/176031.ts
 #EXTINF:-1 tvg-id="fx.us" tvg-name="USA FX East UHD" tvg-logo="http://23.227.147.172:80/images/edd4e5f02c8ac0873d0cddbe7ebe2187.png" group-title="USA Channels",USA FX East UHD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/176033.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/176033.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA Cartoon Network UHD*" tvg-logo="http://23.227.147.172:80/images/7f05ab0a809092eea133c0032dc23370.jpg" group-title="USA Channels",USA Cartoon Network UHD*
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/176243.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/176243.ts
 #EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA Disney Channel" tvg-logo="http://23.227.147.172:80/images/80551e52b3a89eba7f797cdc7c766868.png" group-title="USA Channels",USA Disney Channel
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/176246.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/176246.ts
 #EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon UHD" tvg-logo="http://172.110.220.61:80/images/b3919e8df8a9ac60c53d2ef1a30e20e7.png" group-title="USA Channels",USA Nickelodeon UHD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/176267.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/176267.ts
 #EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA Dog TV" tvg-logo="http://23.227.147.172:80/images/3712b8637d5c285070bc37f7dea7b75e.png" group-title="USA Channels",USA Dog TV
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/175840.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/175840.ts
 
 #EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://172.110.220.61:80/images/d3f850c6cfd02e7fa412df052ccded6c.png" group-title="Poland",PL: TVP 1 HD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219150.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219150.ts
 #EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://172.110.220.61:80/images/4949cb9df1df71c14989908ad952cd9c.png" group-title="Poland",PL: TVP 2 FHD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219151.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219151.ts
 #EXTINF:-1 tvg-id="tvp3.pl" tvg-name="PL: TVP 3" tvg-logo="http://23.227.147.172:80/images/82f599a9f92ab27d23b00a665a2ab05e.png" group-title="Poland",PL: TVP 3
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219152.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219152.ts
 #EXTINF:-1 tvg-id="tvn.pl" tvg-name="PL: TVN HD" tvg-logo="http://23.227.147.172:80/images/be74fa964c17d74695a2b34c0f78b4fb.png" group-title="Poland",PL: TVN HD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219146.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219146.ts
 #EXTINF:-1 tvg-id="canalplus.pl" tvg-name="PL: CANAL+ 1" tvg-logo="http://172.110.220.61:80/images/3337862fa6a5016bbe882e6c90e2190b.png" group-title="Poland",PL: CANAL+ 1
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219012.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219012.ts
 #EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic HD" tvg-logo="http://185.193.88.130:80/images/8b44ecede20150f3a92cf56ca4310339.png" group-title="Poland",PL: National Geographic HD
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/219080.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/219080.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MN: MNB" tvg-logo="http://185.193.88.130:80/images/fc43ed0edfa788d048aed9bcceedec9a.png" group-title="Mongolia",MN: MNB
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/1644435.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/1644435.ts
 
 #EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary" tvg-logo="http://23.227.147.172:80/images/8db95b70278fadab6bc280c6b3333704.jpg" group-title="Canada",CA CBC Calgary
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/181844.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/181844.ts
 #EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA CBC Toronto" tvg-logo="http://23.227.147.172:80/images/f1ef6f4c6e6b3abfa79dfe6292f432d7.jpg" group-title="Canada",CA CBC Toronto
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/181863.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/181863.ts
 #EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV TORONTO" tvg-logo="http://172.110.220.61:80/images/d7d0e8dc627290d85498865f9186f553.png" group-title="Canada",CA CTV TORONTO
-http://23.227.147.172:80/G1782589742636/u3r4kfvu/181918.ts
+http://185.193.88.130:80/G1782589742636/u3r4kfvu/181918.ts
