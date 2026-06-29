@@ -1,19 +1,21 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://185.193.88.130:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA Entertainment",USA AMC
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA AMC" tvg-logo="http://185.193.88.130:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA Channels",USA AMC
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175787.ts
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="http://23.227.147.172:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA Entertainment",USA Bravo East
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA Bravo East" tvg-logo="http://23.227.147.172:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA Channels",USA Bravo East
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175805.ts
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD*" tvg-logo="http://23.227.147.172:80/images/6413fa9c943c4c2ad943d61a20b8193c.png" group-title="USA Entertainment",USA HGTV East UHD*
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA HGTV East UHD*" tvg-logo="http://23.227.147.172:80/images/6413fa9c943c4c2ad943d61a20b8193c.png" group-title="USA Channels",USA HGTV East UHD*
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175875.ts
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA Entertainment",USA Hallmark Channel
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="USA Hallmark Channel" tvg-logo="http://172.110.220.61:80/images/4213e199f29e2b4dc0e525dc573dd4f7.png" group-title="USA Channels",USA Hallmark Channel
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/175864.ts
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://172.110.220.61:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA News",USA CNN UHD*
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA CNN UHD*" tvg-logo="http://172.110.220.61:80/images/ecc7e800f5e0aeb9d2c47e6bf4f123bc.png" group-title="USA Channels",USA CNN UHD*
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/208973.ts
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://172.110.220.61:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA News",USA BBC World News
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="USA BBC World News" tvg-logo="http://172.110.220.61:80/images/3d87c506ecb1e0f104cbaf21039c12a8.png" group-title="USA Channels",USA BBC World News
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/1847083.ts
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA BBC America HD" tvg-logo="http://172.110.220.61:80/images/3c5ea44dac439ca35831736fbd694ca0.png" group-title="USA Entertainment",USA BBC America HD
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA BBC America HD" tvg-logo="http://172.110.220.61:80/images/3c5ea44dac439ca35831736fbd694ca0.png" group-title="USA Channels",USA BBC America HD
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/1846782.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA DISCOVERY CHANNEL HD*" tvg-logo="http://185.193.88.130:80/images/ea4c51dc1b659a1888d8c563ebffdd42.png" group-title="USA Channels",USA DISCOVERY CHANNEL HD*
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/228296.ts
 #EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://172.110.220.61:80/images/d3f850c6cfd02e7fa412df052ccded6c.png" group-title="PL: Poland General",PL: TVP 1 HD
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/219150.ts
 #EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://172.110.220.61:80/images/4949cb9df1df71c14989908ad952cd9c.png" group-title="PL: Poland General",PL: TVP 2 FHD
@@ -24,5 +26,7 @@ http://23.227.147.172:80/G1782589742636/u3r4kfvu/219152.ts
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/219146.ts
 #EXTINF:-1 tvg-id="canalplus.pl" tvg-name="PL: CANAL+ 1" tvg-logo="http://172.110.220.61:80/images/3337862fa6a5016bbe882e6c90e2190b.png" group-title="PL: Poland General",PL: CANAL+ 1
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/219012.ts
+#EXTINF:-1 tvg-id="natgeo.pl" tvg-name="PL: National Geographic HD" tvg-logo="http://185.193.88.130:80/images/8b44ecede20150f3a92cf56ca4310339.png" group-title="PL: Poland General",PL: National Geographic HD
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/219080.ts
 #EXTINF:-1 tvg-id="" tvg-name="MN: MNB" tvg-logo="http://185.193.88.130:80/images/fc43ed0edfa788d048aed9bcceedec9a.png" group-title="Mongolia",MN: MNB
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/1644435.ts
