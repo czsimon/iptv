@@ -16,6 +16,8 @@ http://23.227.147.172:80/G1782589742636/u3r4kfvu/1847083.ts
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/1846782.ts
 #EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA DISCOVERY CHANNEL HD*" tvg-logo="http://185.193.88.130:80/images/ea4c51dc1b659a1888d8c563ebffdd42.png" group-title="USA Channels",USA DISCOVERY CHANNEL HD*
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/228296.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA Nat Geo East" tvg-logo="http://23.227.147.172:80/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="USA Channels",USA Nat Geo East
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/175899.ts
 #EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 HD" tvg-logo="http://172.110.220.61:80/images/d3f850c6cfd02e7fa412df052ccded6c.png" group-title="PL: Poland General",PL: TVP 1 HD
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/219150.ts
 #EXTINF:-1 tvg-id="tvp2.pl" tvg-name="PL: TVP 2 FHD" tvg-logo="http://172.110.220.61:80/images/4949cb9df1df71c14989908ad952cd9c.png" group-title="PL: Poland General",PL: TVP 2 FHD
@@ -30,3 +32,11 @@ http://23.227.147.172:80/G1782589742636/u3r4kfvu/219012.ts
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/219080.ts
 #EXTINF:-1 tvg-id="" tvg-name="MN: MNB" tvg-logo="http://185.193.88.130:80/images/fc43ed0edfa788d048aed9bcceedec9a.png" group-title="Mongolia",MN: MNB
 http://23.227.147.172:80/G1782589742636/u3r4kfvu/1644435.ts
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary" tvg-logo="http://23.227.147.172:80/images/8db95b70278fadab6bc280c6b3333704.jpg" group-title="Canada Channels",CA CBC Calgary
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/181844.ts
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA CBC Calgary" tvg-logo="http://23.227.147.172:80/images/8db95b70278fadab6bc280c6b3333704.jpg" group-title="Canada Channels",CA CBC Calgary
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/181844.ts
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA CBC Toronto" tvg-logo="http://23.227.147.172:80/images/f1ef6f4c6e6b3abfa79dfe6292f432d7.jpg" group-title="Canada Channels",CA CBC Toronto
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/181863.ts
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA CTV TORONTO" tvg-logo="http://172.110.220.61:80/images/d7d0e8dc627290d85498865f9186f553.png" group-title="Canada Channels",CA CTV TORONTO
+http://23.227.147.172:80/G1782589742636/u3r4kfvu/181918.ts
